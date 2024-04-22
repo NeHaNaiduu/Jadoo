@@ -1,8 +1,8 @@
-# Jadoo: A Travel-Friendly Website
+<strong>Jadoo: A Travel-Friendly Website</strong>
 
 Jadoo is a sleek and user-friendly travel website designed to inspire and assist travelers in planning their next adventure. Built with HTML, CSS, and JavaScript, this website offers a responsive and seamless browsing experience across various devices, from desktops to smartphones.
 
-Features :-
+<b>Features :-</b>
 
 Responsive Design: Jadoo is fully responsive, ensuring that users can access and enjoy its features on any device, including desktops, tablets, and smartphones.
 
@@ -11,18 +11,18 @@ Engaging Content: Jadoo offers engaging and informative content, including stunn
 Customizable: The website's codebase is easily customizable, allowing developers to modify and extend its functionality according to their specific needs and preferences.
 
 
-Technologies Used
+<b>Technologies Used :-</b>
 
-HTML: Hypertext Markup Language (HTML) is used for structuring the website's content and layout.
+<u>HTML</u>: Hypertext Markup Language (HTML) is used for structuring the website's content and layout.
 
-CSS: Cascading Style Sheets (CSS) is used for styling the website, ensuring a visually appealing and consistent design across all pages.
+<u>CSS</u>: Cascading Style Sheets (CSS) is used for styling the website, ensuring a visually appealing and consistent design across all pages.
 
-JavaScript: JavaScript is used to add interactive features and dynamic functionality to the website, enhancing the user experience.
+<u>JavaScript</u>: JavaScript is used to add interactive features and dynamic functionality to the website, enhancing the user experience.
 
-Webflow: While the original design was created with Webflow, this version of Jadoo is hand-coded using HTML, CSS, and JavaScript for increased customization and flexibility.
+<u>Webflow</u>: While the original design was created with Webflow, this version of Jadoo is hand-coded using HTML, CSS, and JavaScript for increased customization and flexibility.
 
-Acknowledgements :-
+<em>Acknowledgements :-
 
 Special thanks to Webflow for the original design inspiration.
 
-Thanks to the open-source community for their valuable contributions to the tools used in this project.
+Thanks to the open-source community for their valuable contributions to the tools used in this project.</em>
