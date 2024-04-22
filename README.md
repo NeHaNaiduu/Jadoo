@@ -1,4 +1,4 @@
-<strong>Jadoo: A Travel-Friendly Website</strong>
+<h1>Jadoo: A Travel-Friendly Website</h1>
 
 Jadoo is a sleek and user-friendly travel website designed to inspire and assist travelers in planning their next adventure. Built with HTML, CSS, and JavaScript, this website offers a responsive and seamless browsing experience across various devices, from desktops to smartphones.
 
